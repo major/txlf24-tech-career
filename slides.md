@@ -624,14 +624,38 @@ Look for the win-win outcomes.
 
 ----
 
+<div class="container">
+<div class="col">
 Major Hayden
 
 major@mhtx.net
 
-https://major.io
+[major.io](https://major.io)
+</div>
 
+<div class="col">
+
+![](assets/slides_qr_code.png) <!-- .element width="300px" -->
+
+Get the slides here 👆
+
+[txlf24-tech-career.major.io](https://txlf24-tech-career.major.io)
+
+</div>
+</div>
+
+<!-- fun stylesheet stuff here -->
 <style type="text/css">
-  .smaller {
+.smaller {
     font-size: 0.75em;
-  }
+}
+.container{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.col{
+    flex: 1;
+}
 </style>

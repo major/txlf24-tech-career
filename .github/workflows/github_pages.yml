@@ -43,7 +43,7 @@ jobs:
         run: npm install -g reveal-md
 
       - name: Build with Hugo
-        run: reveal-md slides.md --static public
+        run: reveal-md slides.md --static public --static-dirs=assets
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
