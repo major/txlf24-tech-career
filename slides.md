@@ -61,6 +61,14 @@ Owner of too many domain names <!-- .element: class="fragment" -->
 
 💕
 
+----
+
+## Have questions?
+
+I love questions. 💕
+
+I promise I'll save time<br>for questions at the end!
+
 ---
 
 # Tip #1
