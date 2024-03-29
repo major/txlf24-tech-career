@@ -9,4 +9,4 @@ The slides are rendered by [reveal-md](https://github.com/webpro/reveal-md) and 
 
 Or use this QR code:
 
-![assets/slides_qr_code.png](assets/slides_qr_code.png)
+<img src="assets/slides_qr_code.png" style="width: 400px;">
