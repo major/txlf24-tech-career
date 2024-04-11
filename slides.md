@@ -87,6 +87,23 @@ Work in roles or on projects that<br>**give you opportunities**<br>to solve prob
 
 ----
 
+#### Curiosity and interests
+
+It's easier to be more engaged about your work
+when it's something that interest you and it's
+something you're curious about.
+
+Note:
+Coming up with ideas, making other people's ideas real, taking apart someone else's work to test it
+
+----
+
+#### Be open to tangent interests, too
+
+Sometimes you'll realize that you're interested in something related to what you're working on
+
+----
+
 There are also those times where<br>
 you don't seek out the work<br>
 **but the work finds you.**
