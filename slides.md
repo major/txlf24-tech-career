@@ -3,8 +3,7 @@ title: Five tips for a thriving technology career
 revealOptions:
   controlsTutorial: false
   slideNumber: true
-  transition: 'slide'
-  transitionSpeed: fast
+  transition: fade
 theme: black
 ---
 
