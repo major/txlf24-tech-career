@@ -30,13 +30,13 @@ Trying new things is a worthwhile endeavor from time to time.
 
 ## Why am I doing this talk?
 
-I mentor a lot of people and they often ask me the same questions:
+I mentor a lot of people and they often ask me the same question:
 
 ----
 
 _"How can I build a successful career in technology?"_
 
-🤔
+# 🤔
 
 ----
 
@@ -97,11 +97,21 @@ Coming up with ideas, making other people's ideas real, taking apart someone els
 
 ----
 
-#### Be open to tangent interests, too
+#### Be open to new interests, too
 
 Sometimes you'll realize that you're interested in something related to what you're working on
 
 ----
+
+#### ⚠️ Watch out for passion
+
+I avoid using the word **passion** because it feels awkward when talking about work
+
+Passion makes it difficult to consider new opportunities
+
+----
+
+### On that note...
 
 There are also those times where<br>
 you don't seek out the work<br>
@@ -167,11 +177,15 @@ Later that evening, my phone dinged.
 
 ----
 
-He offered me a job in corporate security working on the company's security architecture. <!-- .element: class="fragment" -->
+# 😱 🫣
 
-It was a huge promotion. <!-- .element: class="fragment" -->
+----
 
-I would lead a team of three that grew to six. <!-- .element: class="fragment" -->
+He offered me a job in corporate security working on the company's security architecture.
+
+It was a huge promotion.
+
+I would lead a team of three that grew to six.
 
 ----
 
@@ -194,14 +208,6 @@ Always be open to learning.
 You won't be an expert on day one.
 
 The only bad questions<br>are the ones that aren't asked. 😜
-
-----
-
-## Interest and passion<br>are different
-
-Passion can blind you to new opportunities when you're too attached to your current work.
-
-Note: The word "passion" around the workplace makes me feel uneasy.
 
 ----
 
@@ -358,7 +364,9 @@ Is something that only you can protect. <!-- .element: class="fragment" -->
 
 ----
 
-Suffering in silence while your time wastes away **is one of the worst things on Earth.**
+Suffering in silence while your time wastes away
+
+#### **is one of the worst things on Earth!**
 
 (But most of us do this fairly often.)  <!-- .element: class="smaller" -->
 
