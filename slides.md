@@ -89,7 +89,7 @@ Work in roles or on projects that<br>**give you opportunities**<br>to solve prob
 #### Curiosity and interests
 
 It's easier to be more engaged about your work
-when it's something that interest you and it's
+when it's something that interests you and it's
 something you're curious about.
 
 Note:
@@ -130,15 +130,15 @@ It all started with a security incident.
 
 Password resets were needed,<br>but only for employees who were affected.
 
-Nobody from our team was on the affected list. 😌 <!-- .element: class="fragment" -->
+Nobody from our team was on the affected list. 😌
 
 ----
 
 Somehow, everyone's passwords were reset at 1PM. 😱
 
-We were right in the middle<br>of a serious unrelated outage. 🔥 <!-- .element: class="fragment" -->
+We were right in the middle<br>of a serious unrelated outage. 🔥
 
-All of us were suddenly locked out. <!-- .element: class="fragment" -->
+All of us were suddenly locked out.
 
 ----
 
@@ -193,7 +193,7 @@ It was one of the best<br>_(and most stressful)_<br>roles I've ever had.
 
 The work aligned with my interests<br>and offered me plenty of room for growth.
 
-_(And I learned how to dress better for work, too.)_ <!-- .element: class="fragment" -->
+_(And I learned how to dress better for work, too.)_ 
 
 ----
 
@@ -213,13 +213,13 @@ The only bad questions<br>are the ones that aren't asked. 😜
 
 ## The best roles & projects:
 
-Align with and broaden your interests <!-- .element: class="fragment" -->
+Align with and broaden your interests
 
-Fuel your personal and professional growth <!-- .element: class="fragment" -->
+Fuel your personal and professional growth
 
-Sometimes find you! <!-- .element: class="fragment" -->
+Sometimes find you!
 
-_(Be open to those!)_ <!-- .element: class="fragment" -->
+_(Be open to those!)_
 
 ---
 
@@ -324,11 +324,11 @@ Everyone can be a mentor for someone<br>at any stage in their career.
 
 ## Cutting a path
 
-Share knowledge and experience with others in an easily consumable way. <!-- .element: class="fragment" -->
+Share knowledge and experience with others in an easily consumable way.
 
-Mentor others and be mentored.  <!-- .element: class="fragment" -->
+Mentor others and be mentored.
 
-Build a well-worn path for others to follow. <!-- .element: class="fragment" -->
+Build a well-worn path for others to follow.
 
 ---
 
