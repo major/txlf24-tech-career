@@ -638,7 +638,7 @@ Look for the win-win outcomes.
 
 ---
 
-## Five tips:
+## RECAP: Five tips
 
 1. Align your work with your interests
 
